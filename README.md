@@ -1,2 +1,2 @@
 # CV - Mayank Baranwal
-Link to Master's Version of Resume: https://git.io/JL2nZ
+Link to Masters Version of Resume: https://git.io/JL2nZ
